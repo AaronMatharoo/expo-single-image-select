@@ -1,0 +1,30 @@
+{
+  "name": "expo-single-image-select",
+  "version": "1.0.0",
+  "description": "Select an image from device in Expo/React-Native environment with permissions handled for you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "expo-image-picker" : "x.x.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronMatharoo/expo-single-image-select.git"
+  },
+  "keywords": [
+    "Expo",
+    "React",
+    "React-Native",
+    "Image",
+    "iOS-permissions",
+    "iOS"
+  ],
+  "author": "Aaron Matharoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronMatharoo/expo-single-image-select/issues"
+  },
+  "homepage": "https://github.com/AaronMatharoo/expo-single-image-select#readme"
+}
